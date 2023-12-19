@@ -5,3 +5,7 @@ this will later include more stuff like css
 ///////////////////
 just addded 3 files each one of them have a sepreate recipe you can view all of them from the main page and every page of them contain a recipe
 with a descrtiption about it and ingratedns and how to cook itevery page have a back home in the end of it
+
+//////////////////////
+as of today 12/19/2023 i did start start css on the oden project and i will start implementing 
+it on this project
